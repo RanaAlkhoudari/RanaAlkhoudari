@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanaAlkhoudari&show_icons=true&theme=radical&layout=compact&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
+api/pin?username=anuraghazra&repo=github-readme-stats
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RanaAlkhoudari&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RanaAlkhoudari&repo=github-readme-stats)]
 
