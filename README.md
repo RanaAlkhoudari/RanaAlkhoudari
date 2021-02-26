@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RanaAlkhoudari&repo=github-readme-stats)]
+
 
 
 
