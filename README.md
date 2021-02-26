@@ -21,15 +21,9 @@ Here are some ideas to get you started:
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanaAlkhoudari&show_icons=true&theme=radical&layout=compact&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<br>
+https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
 
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
 
 
