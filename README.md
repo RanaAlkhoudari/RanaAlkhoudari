@@ -21,17 +21,6 @@ Here are some ideas to get you started:
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanaAlkhoudari&show_icons=true&theme=radical&layout=compact&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
-
-
-
-
-
-
-
-
-
-
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanaAlkhoudari&show_icons=true&theme=radical)
@@ -41,6 +30,8 @@ https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanaAlkhoudari)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 
 
 
